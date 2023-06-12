@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">plant</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label"></string>
+    <string name="second_fragment_label">Dodawanie</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="menu_dodania_nowej_ro_liny">Menu dodania nowej rośliny</string>
+    <string name="moje_rosliny">Moje Rośliny</string>
+    <string name="select">Wybierz jedno</string>
+</resources>
